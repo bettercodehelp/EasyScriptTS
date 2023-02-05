@@ -5,9 +5,9 @@
 <h1 align="center">✨ Easy Script TS</h1>
 
 <p align="center">
-    <img alt="Lastest Release" src="https://img.shields.io/github/v/release/easyscriptjs/easyscriptts?style=for-the-badge">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues-raw/easyscriptjs/easyscriptts?label=Issues&style=for-the-badge">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/easyscriptjs/easyscriptts?label=Pull%20Requests&style=for-the-badge">
+    <img alt="Lastest Release" src="https://img.shields.io/github/v/release/EasyScriptJS/EasyScriptTS?style=for-the-badge">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues-raw/EasyScriptJS/EasyScriptTS?label=Issues&style=for-the-badge">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/EasyScriptJS/EasyScriptTS?label=Pull%20Requests&style=for-the-badge">
 </p>
 
 <p align="center">Easy Script TS is a npm package which makes coding in TypeScript easy!</p>
