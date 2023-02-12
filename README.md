@@ -2,7 +2,7 @@
     <img src="https://images.easyscript.dev/banner.png">
 </p>
 
-<h1 align="center">✨ Easy Script TS</h1>
+<h1 align="center">✨ Easy Script.TS</h1>
 
 <p align="center">
     <img alt="Lastest Release" src="https://img.shields.io/github/v/release/EasyScriptJS/EasyScriptTS?style=for-the-badge">
@@ -10,18 +10,18 @@
     <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/EasyScriptJS/EasyScriptTS?label=Pull%20Requests&style=for-the-badge">
 </p>
 
-<p align="center">Easy Script TS is a npm package which makes coding in TypeScript easy!</p>
+<p align="center">Easy Script.TS is a npm package which makes coding in TypeScript easy!</p>
 
 ## 📊 Installation
 
 You can you use one of the methods below to install Easy Script.
 
 ```
-npm install easyscriptts
+npm install easyscript.ts
 ```
 
 ```
-yarn add easyscriptts
+yarn add easyscript.ts
 ```
 
 For more information on how to use Easy Script TS, the [documentation]() (Coming soon) should help you.
