@@ -8,6 +8,7 @@ export { uuid } from "./src/uuid";
 
 /** Util **/
 
+export { matches } from "./src/util/matches";
 export { isEmpty } from "./src/util/isEmpty";
 export { boolToNum } from "./src/util/boolToNum";
 export { boolToStr } from "./src/util/boolToStr";
