@@ -24,7 +24,7 @@ npm install easyscript.ts
 yarn add easyscript.ts
 ```
 
-For more information on how to use Easy Script TS, the [documentation]() (Coming soon) should help you.
+For more information on how to use Easy Script TS, the [documentation](https://ts.easyscript.dev) should help you.
 
 ## 🤔 Why?
 
