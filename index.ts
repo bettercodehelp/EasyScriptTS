@@ -10,6 +10,8 @@ export { uuid } from "./src/uuid";
 
 export { boolToNum } from "./src/util/boolToNum";
 export { boolToStr } from "./src/util/boolToStr";
+export { isEmpty } from "./src/util/isEmpty";
+export { matches } from "./src/util/matches";
 export { numToBool } from "./src/util/numToBool";
 export { numToStr } from "./src/util/numToStr";
 export { removeDuplicates } from "./src/util/removeDuplicates";
