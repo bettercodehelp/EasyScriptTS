@@ -1,7 +1,7 @@
 {
   "name": "easyscript.ts",
   "description": "EasyScript.ts is a npm package which makes coding in TypeScript easy!",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "typings": "typings/index.d.ts",
   "scripts": {
@@ -37,12 +37,12 @@
     "url": "https://github.com/EasyScriptJS/EasyScriptTS/issues"
   },
   "homepage": "https://github.com/EasyScriptJS/EasyScriptTS#readme",
-  "devDependencies": {
-    "@types/node": "^18.11.18",
-    "typescript": "^4.9.5"
-  },
   "dependencies": {
     "chalk": "^5.2.0",
     "easyscript.ts": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.5"
   }
 }
