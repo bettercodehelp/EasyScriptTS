@@ -17,6 +17,7 @@ export { numToStr } from "./src/util/numToStr";
 export { removeDuplicates } from "./src/util/removeDuplicates";
 export { strToBool } from "./src/util/strToBool";
 export { strToNum } from "./src/util/strToNum";
+export { zip } from "./src/util/zip";
 
 /** DNS */
 
