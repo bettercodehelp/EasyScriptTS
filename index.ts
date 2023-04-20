@@ -21,7 +21,18 @@ export { strToBool } from "./src/util/strToBool";
 export { strToNum } from "./src/util/strToNum";
 export { zip } from "./src/util/zip";
 
-/** DNS */
+/** DNS **/
 
 export { a } from "./src/dns/a";
 export { cname } from "./src/dns/cname";
+
+/** Math **/
+
+export { add } from "./src/math/add";
+export { avg } from "./src/math/avg";
+export { div } from "./src/math/div";
+export { minus } from "./src/math/minus";
+export { mult } from "./src/math/mult";
+
+
+
