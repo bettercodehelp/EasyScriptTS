@@ -8,6 +8,8 @@ export { uuid } from "./src/uuid";
 
 /** Util **/
 
+export { all } from "./src/util/all";
+export { any } from "./src/util/any";
 export { boolToNum } from "./src/util/boolToNum";
 export { boolToStr } from "./src/util/boolToStr";
 export { isEmpty } from "./src/util/isEmpty";
@@ -17,6 +19,7 @@ export { numToStr } from "./src/util/numToStr";
 export { removeDuplicates } from "./src/util/removeDuplicates";
 export { strToBool } from "./src/util/strToBool";
 export { strToNum } from "./src/util/strToNum";
+export { zip } from "./src/util/zip";
 
 /** DNS **/
 
