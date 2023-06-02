@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://images.easyscript.dev/banner.png">
+    <img src="https://github.com/bettercodehelp/EasyScriptTS/assets/100826194/9b2b13c3-8000-4334-9ff0-179d24a46cf4">
 </p>
 
 <h1 align="center">✨ Easy Script.TS</h1>
